@@ -1,0 +1,34 @@
+{
+  "name": "gogotype-website",
+  "version": "1.0.0",
+  "description": "gogoType 雅思写作打字练习平台 (https://www.gogotype.com) 的官方说明与 mock 演示。",
+  "main": "example.js",
+  "scripts": {
+    "demo": "node example.js"
+  },
+  "keywords": [
+    "gogotype",
+    "ielts",
+    "ielts-writing",
+    "ielts-typing",
+    "雅思写作",
+    "雅思打字",
+    "雅思机考",
+    "肌肉记忆法",
+    "剑桥雅思"
+  ],
+  "homepage": "https://www.gogotype.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeran/gogotype-website.git"
+  },
+  "bugs": {
+    "email": "gogotype@goturix.com"
+  },
+  "author": {
+    "name": "gogoType",
+    "email": "gogotype@goturix.com",
+    "url": "https://www.gogotype.com"
+  },
+  "license": "MIT"
+}
